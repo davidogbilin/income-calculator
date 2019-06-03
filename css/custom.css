@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*main header*/
+
+h2
+{
+	margin-top: 30px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	font-family: arial, georgia, sans-serif;
+}
+
+div hr
+{
+	width: 100%;
+	margin-top: 0px;
+}
+
+.label_font_size
+{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.input_size
+{
+	width: 50%;
+	margin-left: 300px;
+}
