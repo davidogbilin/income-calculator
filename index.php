@@ -323,15 +323,15 @@ $Calobj = new Calculator();
 			<form action="index.php" method="post">
 				<div class="form-group">
 					
-					<h4 class="text-center label_font_size">Name</h4>
+					<h4 class="label_font_size">Name</h4>
 					<input type="text" name="name" class="form-control input_size" pattern="^[A-Za-z]+">
 					<br>
 					
-					<h4 class="text-center label_font_size">Enter Income below</h4>
+					<h4 class=" label_font_size">Enter Income below</h4>
 					<input type="text" name="amount" class="form-control input_size">
 					<br>
 					
-					<h4 class="text-center label_font_size">Select month</h4>
+					<h4 class="label_font_size">Select month</h4>
 					<select class="custom-select input_size" name="month">
 						<option selected>Select month</option>
 						<option>January</option>

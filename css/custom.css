@@ -178,12 +178,12 @@ div hr
 {
 	font-weight: bold;
 	font-size: 20px;
-	text-align: center;
+	margin-left: 300px;
 }
 
 .input_size
 {
-	width: 50%;
+	width: 40%;
 	margin-left: 300px;
 	margin-bottom: 10
 }
